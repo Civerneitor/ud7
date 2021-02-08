@@ -1,6 +1,6 @@
 [TOC]
 
-#### Unidad 7
+#### Unidad 7 - Arraylist y Hashtable
 
 - Contiene los contenidos de la unidad 7 separados por carpetas.
 
